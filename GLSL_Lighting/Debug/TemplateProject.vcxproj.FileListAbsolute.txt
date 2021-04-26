@@ -1,0 +1,8 @@
+C:\Users\geile\Documents\OpenGL - CG\GLSL_Ligh\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\geile\Documents\OpenGL - CG\GLSL_Ligh\GLSL_Lighting\Debug\TemplateProject.pdb
+C:\Users\geile\AppData\Roaming\Microsoft\Windows\Network Shortcuts\plan de negocio\OpenGL - CG\GLSL_Ligh\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\geile\AppData\Roaming\Microsoft\Windows\Network Shortcuts\plan de negocio\OpenGL - CG\GLSL_Ligh\GLSL_Lighting\Debug\TemplateProject.pdb
+C:\Users\smf-m\Documents\Proyecto CP\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\smf-m\Documents\Proyecto CP\GLSL_Lighting\Debug\TemplateProject.pdb
+C:\Users\smf-m\Documents\proyectoCG\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\smf-m\Documents\proyectoCG\GLSL_Lighting\Debug\TemplateProject.pdb
